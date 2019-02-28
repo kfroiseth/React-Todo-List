@@ -6,16 +6,16 @@
 }
 .todoListMain .header button {
   padding: 10px;
-  font-size: 16px;
+  font-size: 18px;
   margin: 10px;
   margin-right: 0px;
-  background-color: #66a854;
+  background-color: #cbdc26;
   color: #FFF;
-  border: 2px solid #4e873f;
+  border: 2px solid #8bb11f;
 }
 .todoListMain .header button:hover {
-  background-color: #7fcc6a;
-  border: 2px solid #66a854;
+  background-color: #8bb11f;
+  border: 2px solid #cbdc26;
   cursor: pointer;
 }
 .todoListMain .theList {
